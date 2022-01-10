@@ -6,7 +6,7 @@ function TelaVideo(){
     return(
         <Container>
             <video width="80%" controls="controls" autoPlay="autoplay">
-                <source src={video} type="video/mp4"></source>
+                <source src="https://youtu.be/Qn4vWZr3zC0" type="video/mp4"></source>
             </video>
             <Texto> Após assistir o video, responda o formulário pufavô!</Texto>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVAwAkn80aDBcEZoujbv75Te-l6wyiXi3meqGmepJwpzA9eA/viewform?usp=sf_link">ACESSE AQUI!</a>
